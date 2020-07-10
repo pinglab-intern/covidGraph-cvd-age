@@ -1,4 +1,5 @@
-# covidGraph-age2cvd-exploration
+# Covid Graph CVD and Age Association
+
 Exploration of Covid Graph with CVD and Age association
 
 **Title**: A study of Covid-19 KG for Different Age group and CVD cases
