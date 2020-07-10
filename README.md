@@ -12,9 +12,10 @@ Exploration of Covid Graph with CVD and Age association
 **Description**: Covid-19 is caused by a coronavirus called SARS-CoV-2 and often presents with symptoms of high fever, cough and shortness of breath. In severe cases, Covid-19 may lead to acute respiratory distress syndrome (ARDS) and multiple organ dysfunction and eventually to death. It is clear that the severity and mortality of Covid-19  is much higher than any other known coronaviruses. New data from Covid-19 cases have indicated that the severity and mortality of this disease are significantly higher in elderly patients and patients with a history of CVD. Applying a Text Mining approach, the students will explore the role of risk factors such as ageing and several cardiovascular diseases (e.g., coronary artery disease) on the severity of Covid-19, and unravel possible underlying mechanisms.
 
 ### Participants
-- ***John Fu***
+- **John Fu**
+- **Ethan Ji**
 - Maya Gupta
-- Ethan Ji
+
 
 **Leaders/instructors**: 
 Dr. Dibakar Sigdel & Dr. David Liem (Mr. Vincent Kyi for technical support)
