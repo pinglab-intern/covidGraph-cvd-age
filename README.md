@@ -13,7 +13,7 @@ Exploration of Covid Graph with CVD and Age association
 
 ### Participants
 - **John Fu**
-- **Ethan Ji**
+- Ethan Ji
 - Maya Gupta
 
 
